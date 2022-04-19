@@ -1,0 +1,7 @@
+// Then import Bootstrap and BootstrapVue SCSS files (order is important)
+@import 'node_modules/bootstrap/scss/bootstrap.scss';
+@import "./varibales";
+
+body{
+    background: #38ada9;
+}
